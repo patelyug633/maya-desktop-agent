@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#demos
+demos/*.mp4
+demos/*.mov
+demos/*.avi
+
+#runtime junk
+workflows/cache/
+workflows/*.tmp
+workflows/*.bak
+
+
